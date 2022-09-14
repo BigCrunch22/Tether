@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 82841984046382600}
   - component: {fileID: 114180526152466626}
   m_Layer: 0
-  m_Name: Tether (LEGACY)
+  m_Name: Torture
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5899,8 +5899,8 @@ MonoBehaviour:
   m_Script: {fileID: -119419473, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModuleType: Tether
-  ModuleDisplayName: Tether
+  ModuleType: Torture
+  ModuleDisplayName: Torture
   RequiresTimerVisibility: 0
 --- !u!114 &114600968305252422
 MonoBehaviour:
