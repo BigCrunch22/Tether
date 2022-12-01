@@ -6,7 +6,7 @@ using System.Text.RegularExpressions;
 using UnityEngine;
 using KModkit;
 
-public class LegacyTetherScript : MonoBehaviour
+public class TortureScript : MonoBehaviour
 {
 	public KMAudio Audio;
     public KMBombInfo Bomb;
